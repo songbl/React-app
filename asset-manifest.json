@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/React-app/static/js/main.12d51ad7.chunk.js",
-    "main.js.map": "/React-app/static/js/main.12d51ad7.chunk.js.map",
-    "runtime~main.js": "/React-app/static/js/runtime~main.a7bc867e.js",
-    "runtime~main.js.map": "/React-app/static/js/runtime~main.a7bc867e.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/React-app/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/React-app/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/React-app/index.html",
-    "precache-manifest.17624d4b3f2ab9dd1247c8a569b507c9.js": "/React-app/precache-manifest.17624d4b3f2ab9dd1247c8a569b507c9.js",
-    "service-worker.js": "/React-app/service-worker.js"
+    "main.js": "/firsrReact/static/js/main.12d51ad7.chunk.js",
+    "main.js.map": "/firsrReact/static/js/main.12d51ad7.chunk.js.map",
+    "runtime~main.js": "/firsrReact/static/js/runtime~main.b28aa0f3.js",
+    "runtime~main.js.map": "/firsrReact/static/js/runtime~main.b28aa0f3.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/firsrReact/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/firsrReact/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/firsrReact/index.html",
+    "precache-manifest.f821719100651e9735728aa559aad837.js": "/firsrReact/precache-manifest.f821719100651e9735728aa559aad837.js",
+    "service-worker.js": "/firsrReact/service-worker.js"
   }
 }
